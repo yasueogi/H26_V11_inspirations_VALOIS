@@ -2,5 +2,5 @@
 
 ![photo](photo/tech_compost_plant_ensemble_20260129.jpg)
 
->Moi représentée par l'oeuvre de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, Montréal, décembre 2023, photo SF.
+>Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre ( Il manque un projecteur qui est en dehors du frame mais sinon tout est la ).
 
