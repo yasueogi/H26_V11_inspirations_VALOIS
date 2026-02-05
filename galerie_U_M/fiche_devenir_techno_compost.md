@@ -1,4 +1,4 @@
-# Oeuvre techno compost de la galerie de l'universiter de montréal  , par Marie ève Levasseur.
+# Oeuvre techno compost de la galerie de l'universiter de montréal   par Marie ève Levasseur.
 
 ![photo](photo/tech_compost_plant_ensemble_20260129.jpg)
 
