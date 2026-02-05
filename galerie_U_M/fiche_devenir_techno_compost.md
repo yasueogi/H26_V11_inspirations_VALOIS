@@ -2,5 +2,18 @@
 
 ![photo](photo/tech_compost_plant_ensemble_20260129.jpg)
 
->Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre ( Il manque un projecteur qui est en dehors du frame mais sinon tout est la ).
+>Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque un projecteur qui est en dehors du frame mais sinon tout est la).
 
+## Comment l'oeuvre a été penser.
+
+Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le bias d'un bando électronique qui sert a détecter les ondes alpha du cerveaux humain (onde alpha= sommeil et méditation). Se bando envoie alors ensuite ses information a un ordinateur qui fait bouger plus ou mouin vite des image a l'avant de la personne en fonction des donner. Le pc envoie aussie les donner a un tableux graphique qui est physiquement positioner a la gauche de la personne avec le bando (ce panneau a surement été placer pour permettre au cantifiquation plus simple pour les usager de l'oeuvre soit pour permettre une meilleur demonstration ou pour tenter de motiver une sorte de compétion cher l'usager). Parlant de competition, La médiatrice te fais une sorte de chalenge en te présentent l'oeuvre "seras tu capable de calmer la machine ?" 
+
+## Mon expérience personnel de l'oeuvre.
+
+![photo](photo/tech_compost_interaction_20260129.jpg)
+
+>Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre.
+
+- Je dirais que le premier regard que j'ai poser sur cette oeuvre étais pas vraiment positif (sa ma prit un certain moment a comprendre de quoi il sagisait.)
+- Quand je comprit finalement enfin le concept (qui savère a être un détecteur d'onde alpha) mon regard sur l'oeuvre a changer drastiquement. Je l'ai prit comme un défie de se calmer (car les ondes alpha sont celle du sommeil et de la méditation).
+- Je trouve que cétais pas mals car a plusieur moment plusieur personne se trouvais a l,entour du dispositif pour voir les autres personnes tenter de calmer en quelle que sorte la machine. Se qui je trouve est manifique en terme de contact humain ses un bon moyen de se regrouper.
