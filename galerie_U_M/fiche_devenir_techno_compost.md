@@ -17,3 +17,20 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 - Je dirais que le premier regard que j'ai poser sur cette oeuvre étais pas vraiment positif (sa ma prit un certain moment a comprendre de quoi il sagisait.)
 - Quand je comprit finalement enfin le concept (qui savère a être un détecteur d'onde alpha) mon regard sur l'oeuvre a changer drastiquement. Je l'ai prit comme un défie de se calmer (car les ondes alpha sont celle du sommeil et de la méditation).
 - Je trouve que cétais pas mals car a plusieur moment plusieur personne se trouvais a l,entour du dispositif pour voir les autres personnes tenter de calmer en quelle que sorte la machine. Se qui je trouve est manifique en terme de contact humain ses un bon moyen de se regrouper.
+
+## Se qui est nécésaire en terme de matériel pour faire l'oeuvre.
+
+![photo](photo/tech_compost_croquie_20260129.png)
+
+>Croquis vite fait de l'instalation de l'oeuvre.
+
+- Un pc (je saurait pas dire exactement se qui est nécésaire en terme de composant.
+- Un bando capable de capter les ondes alpha (a baterie et connectable)
+- Un banc creus pour pouvoir mettre le pc en dessous.
+- Un projecteur ( au plafont )
+- Une air de projection
+- Une herse au plafont (pour le projecteur)
+- Un fils hdmi
+- Minimum 3 prise électrique
+- Un panneau graphique
+- Le fils pour connecter le panneau au pc
