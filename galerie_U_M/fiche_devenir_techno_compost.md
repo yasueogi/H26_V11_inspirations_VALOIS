@@ -8,9 +8,12 @@
 
 ![photo](photo/tech_compost_info_20260129.jpg)
 
+>Photo de la fiche d'information de l'oeuvre / Photo de Loïc Valois.
+
 - Nom de l'artiste: Marie ève Levasseur
 - Type d'exposition: temporaire
 - Date presentation et lieu: du 28 novembre 2025 au 28 fevrier 2026 Galerie de l’UdeM
+- Année de production de l'oeuvre: 2025
 
 
 
@@ -22,7 +25,7 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 
 ![photo](photo/tech_compost_interaction_20260129.jpg)
 
->Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre.
+>Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre / Photo de Loïc Valois.
 
 - Je dirais que le premier regard que j'ai poser sur cette oeuvre étais pas vraiment positif (sa ma prit un certain moment a comprendre de quoi il sagisait.)
 - Quand je comprit finalement enfin le concept (qui savère a être un détecteur d'onde alpha) mon regard sur l'oeuvre a changer drastiquement. Je l'ai prit comme un défie de se calmer (car les ondes alpha sont celle du sommeil et de la méditation).
@@ -32,7 +35,7 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 
 ![photo](photo/tech_compost_croquie_20260129.png)
 
->Croquis vite fait de l'instalation de l'oeuvre.
+>Croquis vite fait de l'instalation de l'oeuvre / Photo de Loïc Valois.
 
 - Un pc (je saurait pas dire exactement se qui est nécésaire en terme de composant.
 - Un bando capable de capter les ondes alpha (a baterie et connectable)
@@ -48,5 +51,15 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 ## Se que je trouve interessant a garder dans l'oeuvre.
 
 1. je trouve que le côter interactif de l'oeuvre est vraiment un de ses point fort.
-2. je trouve qu el'installation étais asser bien penser se qui aide a l'imersion.
+2. je trouve que l'installation étais asser bien penser se qui aide a l'imersion.
+3. je pense que laisser de la liberter a l'intelligence artificielle peut être quelle que chose d'interressant a travailler dessue a l'avenir.
 
+## Se que je pense qui pourrait être améliorer.
+
+1. je n'aime pas le fais que la seule influence humaine sur l'image montrer soit la vitesse de défilement j'aurais aimer que sa soit produit en tout temps.
+2. j'aurais aimer que l'oeuvre est plus de chose qui capte l'attention pour faire en sorte que le personne veulent rester plus longtemps a regarger l'oeuvre.
+3. J'airait bien aimer qu'il y ais bien plus dondes qui soit percue ( de préference une que l'ont pourrais controler consiament pour donner une plus grade impression de controle.
+
+## Référence
+
+- Juste les photos que j'ai prise et les informations qui étais présente sur le lieux d'exposition.
