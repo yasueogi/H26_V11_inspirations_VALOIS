@@ -35,7 +35,7 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 
 ![photo](photo/tech_compost_croquie_20260129.png)
 
->Croquis vite fait de l'instalation de l'oeuvre / Photo de Loïc Valois.
+>Croquis vite fait de l'instalation de l'oeuvre / fait par Loïc Valois.
 
 - Un pc (je saurait pas dire exactement se qui est nécésaire en terme de composant.
 - Un bando capable de capter les ondes alpha (a baterie et connectable)
