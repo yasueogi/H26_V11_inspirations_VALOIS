@@ -4,6 +4,16 @@
 
 >Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque un projecteur qui est en dehors du frame mais sinon tout est la).
 
+## Information general sur l'oeuvre.
+
+![photo](photo/tech_compost_info_20260129.jpg)
+
+- Nom de l'artiste: Marie ève Levasseur
+- Type d'exposition: temporaire
+- Date presentation et lieu: du 28 novembre 2025 au 28 fevrier 2026 Galerie de l’UdeM
+
+
+
 ## Comment l'oeuvre a été penser.
 
 Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le bias d'un bando électronique qui sert a détecter les ondes alpha du cerveaux humain (onde alpha= sommeil et méditation). Se bando envoie alors ensuite ses information a un ordinateur qui fait bouger plus ou mouin vite des image a l'avant de la personne en fonction des donner. Le pc envoie aussie les donner a un tableux graphique qui est physiquement positioner a la gauche de la personne avec le bando (ce panneau a surement été placer pour permettre au cantifiquation plus simple pour les usager de l'oeuvre soit pour permettre une meilleur demonstration ou pour tenter de motiver une sorte de compétion cher l'usager). Parlant de competition, La médiatrice te fais une sorte de chalenge en te présentent l'oeuvre "seras tu capable de calmer la machine ?" 
@@ -34,3 +44,9 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 - Minimum 3 prise électrique
 - Un panneau graphique
 - Le fils pour connecter le panneau au pc
+
+## Se que je trouve interessant a garder dans l'oeuvre.
+
+1. je trouve que le côter interactif de l'oeuvre est vraiment un de ses point fort.
+2. je trouve qu el'installation étais asser bien penser se qui aide a l'imersion.
+
