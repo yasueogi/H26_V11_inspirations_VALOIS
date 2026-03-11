@@ -12,21 +12,21 @@
 
 
 
-## Comment l'oeuvre a été penser.
+## Comment l'instalation a été penser.
 
-Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le bias d'un bando électronique qui sert a détecter les ondes alpha du cerveaux humain (onde alpha= sommeil et méditation). Se bando envoie alors ensuite ses information a un ordinateur qui fait bouger plus ou mouin vite des image a l'avant de la personne en fonction des donner. Le pc envoie aussie les donner a un tableux graphique qui est physiquement positioner a la gauche de la personne avec le bando (ce panneau a surement été placer pour permettre au cantifiquation plus simple pour les usager de l'oeuvre soit pour permettre une meilleur demonstration ou pour tenter de motiver une sorte de compétion cher l'usager). Parlant de competition, La médiatrice te fais une sorte de chalenge en te présentent l'oeuvre "seras tu capable de calmer la machine ?" 
+Premièrement, l'instalation pour se film multimédia a été penser autour du thème des années ils est donc séparer en trois partie en quelle que sorte. Je trouvais que cette méthode placement est penser pour pouvoir séparer les différente étapes des années/siècles qui sont présenter durent le la suite historique qui est présenter durant se film. L'instalation a été fais aussie en forme de U pour donner une impresion d'immersion dans l'histoire présenter (impression qui selont moi est réussie). Pour le reste je dirait que l'instalation a été penser autour des ruinnes qui se trouve au pied de l'instalation pour donner une impression de (fusion) avec l'histoire de ses ruines.
 
 ## Mon expérience personnel de l'oeuvre.
 
 ![vidéo](photo/generation_mtl_petite_vidéo.mp4)
 
->Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre / Photo de Loïc Valois.
+>vidéo d'une partite partie du spectacle / Vidéo de Loïc Valois.
 
-- Je dirais que le premier regard que j'ai poser sur cette oeuvre étais pas vraiment positif (sa ma prit un certain moment a comprendre de quoi il sagisait.)
-- Quand je comprit finalement enfin le concept (qui savère a être un détecteur d'onde alpha) mon regard sur l'oeuvre a changer drastiquement. Je l'ai prit comme un défie de se calmer (car les ondes alpha sont celle du sommeil et de la méditation).
-- Je trouve que cétais pas mals car a plusieur moment plusieur personne se trouvais a l,entour du dispositif pour voir les autres personnes tenter de calmer en quelle que sorte la machine. Se qui je trouve est manifique en terme de contact humain ses un bon moyen de se regrouper.
+- Je dirais que j'ai adorer rentrer dans la piece de l'instalation, la porte avait une sorte de prestance et il y avait des petite iluminations sur le dispositif avant meme que cela commence se qui donnait une impression de professionel et propre que jai rarement vue.
+- durant la diffusion, j'ai bien apprécier du débuts a la fin (j'aurais adoré que mes cours d'histoire soit fais comme cela.
+- J'ai d'ailleur bien aimer comment tout étais simple mais complet dans la salle pour rendre tout accesible.
 
-## Se qui est nécésaire en terme de matériel pour faire l'oeuvre.
+## Se qui est nécésaire en terme de matériel pour faire l'Instalation.
 
 ![photo](photo/tech_compost_croquie_20260129.png)
 
