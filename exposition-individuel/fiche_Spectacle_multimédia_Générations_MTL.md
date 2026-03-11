@@ -18,7 +18,7 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 
 ## Mon expérience personnel de l'oeuvre.
 
-![](photo/generation_mtl_petite_vidéo.mp4)
+![vidéo](photo/generation_mtl_petite_vidéo.mp4)
 
 >Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre / Photo de Loïc Valois.
 
