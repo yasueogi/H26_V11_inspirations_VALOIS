@@ -16,6 +16,8 @@
 
 ![photo](photo/generation_mtl_vue_globals_gauche_installation.png)
 
+>Photo qui montre au bonne partie de l'installation.­
+
 Premièrement, l'instalation pour se film multimédia a été penser autour du thème des années ils est donc séparer en trois partie en quelle que sorte. Je trouvais que cette méthode placement est penser pour pouvoir séparer les différente étapes des années/siècles qui sont présenter durent le la suite historique qui est présenter durant se film. L'instalation a été fais aussie en forme de U pour donner une impresion d'immersion dans l'histoire présenter (impression qui selont moi est réussie). Pour le reste je dirait que l'instalation a été penser autour des ruinnes qui se trouve au pied de l'instalation pour donner une impression de (fusion) avec l'histoire de ses ruines.
 
 ## Mon expérience personnel de l'oeuvre.
@@ -56,6 +58,8 @@ Premièrement, l'instalation pour se film multimédia a été penser autour du t
 ## Se que je trouve interessant a garder dans l'oeuvre.
 
 ![vidéo](photo/generation_mtl_vidéo_instruction.mp4)
+
+>Petite vidéo qui montre les instructions qui sont donner au débuts de la scéance.
 
 1. Je trouve que l'hestétique de l'instalation est définitivement a garder.
 2. je trouve que l'ider de présenter des sujets qui n'interest pas tout le monde du manière qui donne l'impression qu'ils sont face a quelle que chose d'important et de plus plaisant.
