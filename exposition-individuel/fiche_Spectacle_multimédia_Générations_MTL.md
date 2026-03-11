@@ -14,6 +14,8 @@
 
 ## Comment l'instalation a été penser.
 
+![photo](photo/generation_mtl_vue_globals_gauche_installation.png)
+
 Premièrement, l'instalation pour se film multimédia a été penser autour du thème des années ils est donc séparer en trois partie en quelle que sorte. Je trouvais que cette méthode placement est penser pour pouvoir séparer les différente étapes des années/siècles qui sont présenter durent le la suite historique qui est présenter durant se film. L'instalation a été fais aussie en forme de U pour donner une impresion d'immersion dans l'histoire présenter (impression qui selont moi est réussie). Pour le reste je dirait que l'instalation a été penser autour des ruinnes qui se trouve au pied de l'instalation pour donner une impression de (fusion) avec l'histoire de ses ruines.
 
 ## Mon expérience personnel de l'oeuvre.
@@ -28,33 +30,44 @@ Premièrement, l'instalation pour se film multimédia a été penser autour du t
 
 ## Se qui est nécésaire en terme de matériel pour faire l'Instalation.
 
-![photo](photo/tech_compost_croquie_20260129.png)
+![photo](photo/generation_mtl_croquis.png)
 
->Croquis vite fait de l'instalation de l'oeuvre / fait par Loïc Valois.
+>Croquis vite fait de l'instalation / fait par Loïc Valois.
 
-- Un pc (je saurait pas dire exactement se qui est nécésaire en terme de composant.
-- Un bando capable de capter les ondes alpha (a baterie et connectable)
-- Un banc creus pour pouvoir mettre le pc en dessous.
-- Un projecteur ( au plafont )
+- Un pc ou plusieur pc (je saurait pas dire exactement se qui est nécésaire en terme de composant.)
+- Plusieur projecteurs (j'ai aucun moyen de savoir combien exactemetn mais j'estime entre 7 a 10)
+- Environ 5 ranger de sieges placer en estrade.
+- Des projecteur de lumière ( acune ider combiens )
 - Une air de projection
-- Une herse au plafont (pour le projecteur)
-- Un fils hdmi
-- Minimum 3 prise électrique
-- Un panneau graphique
-- Le fils pour connecter le panneau au pc
+- Une herse au plafont ou juste des moyens de maintenir en place les projecteur et autre équipement.
+- Un nombre de fils hdmi qui est m'est inconue.
+- Beaucoup de courant et beaucoup de circuit electrique différent pour s'assurer de la fiabiliter de l'instalation
+- De nombreux frames de metals de forme différente.
+- De nombreuse toile de tissue opaque (pour les ecrant a l'arrière)
+- Trois toile de forme différente qui ne sont pas opaque.
+- De nombreux miroir.
+- Beaucoup de bouton.
+- Beaucoup de casque audio avec fils en fer.
+- Un certain nombre de haut parleur. (mais je nais aucune ider combiens)
+- Des ruines
+- Sols en tapis
+- Une barrière
 
 ## Se que je trouve interessant a garder dans l'oeuvre.
 
-1. je trouve que le côter interactif de l'oeuvre est vraiment un de ses point fort.
-2. je trouve que l'installation étais asser bien penser se qui aide a l'imersion.
-3. je pense que laisser de la liberter a l'intelligence artificielle peut être quelle que chose d'interressant a travailler dessue a l'avenir.
+![vidéo](photo/generation_mtl_vidéo_instruction.mp4)
+
+1. Je trouve que l'hestétique de l'instalation est définitivement a garder.
+2. je trouve que l'ider de présenter des sujets qui n'interest pas tout le monde du manière qui donne l'impression qu'ils sont face a quelle que chose d'important et de plus plaisant.
+3. J'ai adorer a quelle point l'instalation étais facile a utiliser pour tout le monde.
 
 ## Se que je pense qui pourrait être améliorer.
 
-1. je n'aime pas le fais que la seule influence humaine sur l'image montrer soit la vitesse de défilement j'aurais aimer que sa soit produit en tout temps.
-2. j'aurais aimer que l'oeuvre est plus de chose qui capte l'attention pour faire en sorte que le personne veulent rester plus longtemps a regarger l'oeuvre.
-3. J'airait bien aimer qu'il y ais bien plus dondes qui soit percue ( de préference une que l'ont pourrais controler consiament pour donner une plus grade impression de controle.
+1. je n'aime pas le manque d'humain dans le processus de présentation du film.
+2. j'aurais aimer que l'oeuvre soit un peut plus présise su rchaque évenement qu'ils y ais présenter.
+3. J'airait bien aimer qu'il y ais de haut parleur a larrière en plus de l'avant pour avoir un effect imersif complet.
+4. J'aurais bien aimer que les ruines soit utiliser dans le film et qui ne serve pas que de decort.
 
 ## Référence
 
-- Juste les photos que j'ai prise et les informations qui étais présente sur le lieux d'exposition.
+- Se que j'ai vue dans la salle de l'installation, les photos que j'ai prit et le site de l'exposition su rle site de pointe-à-calière.
