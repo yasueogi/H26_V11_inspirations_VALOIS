@@ -1,8 +1,8 @@
 # Fiche du film multimédia du musée de Pointe-À-Callière qui porte le nom de: Générations MTL.
 
-![photo](photo/tech_compost_plant_ensemble_20260129.jpg)
+![photo](photo/generation_mtl_vue_globals.png)
 
->Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque un projecteur qui est en dehors du frame mais sinon tout est la) / photos toutes prise le 29 decembre 2025.
+>Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque beaucoup d'equipement qui ne pouvais simplement pas être dans le chant de la cameras ou simplement vue) / photos et vidéo toutes prise le 8 mars 2026.
 
 ## Information general sur l'oeuvre.
 
