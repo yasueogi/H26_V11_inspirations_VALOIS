@@ -2,18 +2,13 @@
 
 ![photo](photo/generation_mtl_vue_globals.png)
 
->Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque beaucoup d'equipement qui ne pouvais simplement pas être dans le chant de la cameras ou simplement vue) / photos et vidéo toutes prise le 8 mars 2026.
+>Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque beaucoup d'equipement qui ne pouvais simplement pas être dans le chant de la cameras ou simplement vue) / photos et vidéo toutes prise le 8 mars 2026 par Loïc Valois.
 
 ## Information general sur l'oeuvre.
 
-![photo](photo/tech_compost_info_20260129.jpg)
-
->Photo de la fiche d'information de l'oeuvre / Photo de Loïc Valois.
-
-- Nom de l'artiste: Marie ève Levasseur
-- Type d'exposition: temporaire
-- Date presentation et lieu: du 28 novembre 2025 au 28 fevrier 2026 Galerie de l’UdeM
-- Année de production de l'oeuvre: 2025
+- Type d'exposition: permanente
+- Date presentation et lieu: en permanence au musée de pointe-à-calière
+- Année de production de l'oeuvre: pas réussie a trouver cette information
 
 
 
@@ -23,7 +18,7 @@ Premièrement, l'oeurvre est intéractive en quelle que sorte. Elle l'est par le
 
 ## Mon expérience personnel de l'oeuvre.
 
-![photo](photo/tech_compost_interaction_20260129.jpg)
+[![](photo/generation_mtl_petite_vidéo.mp4)
 
 >Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre / Photo de Loïc Valois.
 
