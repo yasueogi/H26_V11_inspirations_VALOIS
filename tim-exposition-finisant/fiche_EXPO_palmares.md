@@ -1,7 +1,7 @@
 # Palmares des oeuvres de l'exposition "Réseaux Vivant" des étudiants finnisant de la technique d'integrations multimédia de montmorency. (Présenter dans le grand studio de l'aile c de montmorency)
 
 ## Petit mots de débuts
-Je voulais commencer par dire que je pense sincèrement que tout les projets qui ont été présenter étais interessant et que je trouve qu les élèves se sont tous surpacer. Mais malgrées tous certain se sont plus démarquer que d'autre pour moi alors voicie mon palmares !
+Je voulais commencer par dire que je pense sincèrement que tout les projets qui ont été présenter étais interessant et que je trouve que les élèves se sont tous surpacer. Mais malgrées tous certain se sont plus démarquer que d'autre pour moi alors voicie mon palmares !
 
 
 
