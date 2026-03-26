@@ -15,11 +15,11 @@ Mathieu Willett,
 Matis Ghariani, 
 Rafael Angon Dube
 
-### Installation finale dans le studio.
-
 ### Shéma de l'installation (au niveaux théorique)
+![croqui](photo/croqui_abre_en_face.png)
 
 ### Se que cette installation ma fais ressentir.
+pas grand chose pour être honnete. Je me suis juste dit sa fonctionne mais sans plus.
 
 #### Avant de faire l'installation:
 
@@ -32,11 +32,12 @@ Je dirais que mon regard a changer un peut. Se que jeveux dire par cela est que 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
+le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 
 #### 2:
-
+Le cour d'animation 2d pour faire les animation sur l'écrant 
 #### 3:
-
+les cour de web en géneral pour la programation de l'interface et de leur site web
 ### Composante technique du projet que je ne connaissait pas:
 
 #### Phyton
@@ -46,94 +47,92 @@ Ses le language de code qu'ils ont utiliser pour coder le programe qui récupèr
 
 
 
-## En 5 position: Arbre en face
+## En 5 position: Océan Rouge
 
 ### Créer par: 
-Alexandre Gendron, 
-Mikael Arseneau, 
-Mathieu Willett, 
-Matis Ghariani, 
-Rafael Angon Dube
+Amira Tounekti, 
+Kristy Moussally
 
 ### Installation finale dans le studio.
 
-### Shéma de l'installation (au niveaux théorique)
 
+### Shéma de l'installation (au niveaux théorique)
+![croqui](photo/croqui_ocean_rouge.png)
 ### Se que cette installation ma fais ressentir.
+Je dirais que les 30 première seconde étais asser plaisant mais que apres en sen l'assait rapidement. 
 
 #### Avant de faire l'installation:
 
-Je dirais que la première fois que j'ai vue l'installation je ne savais pas trop faire de se que je voyais. Elles me semblais drolement "cheap" et je ne n'avais aucune ider de quoi faire sans les créateur a côter j'aurais perdue un moment sur l'insatallation a juste tenter de comprendre comment l'utiliser se qui (je trouve) est asser découragant pour une personnes qui est la pour tenter de vivre la totaliter de l'experience que l'installation peut donner.
+Je dirais que la première fois que j'ai vue l'installation elle ma sembler pluto interresante au vue de sont style arcade qui me fesait poser l;a question de se qu'il avait fais a l'interieur. J'ai sensuite tester et sa marchais mais sans plus.
 
 #### Apres avoir fais le tour de l'installation:
 
-Je dirais que mon regard a changer un peut. Se que jeveux dire par cela est que je comprend enfin un peut comment sa marche. Malheureusement le "fun" que j'ai eu avec cette installation a été très bref vue que le contenue quelle propose est très limiter (se termine en 30 seconde sans même se presser) se que je trouve asser desevant. De pus le fais que l'ont se fasse prendre en photo a l'entrer sans même avoir un avertisement (je pense) vas en frustrer plus d'un qui ne désirai pas se faire prendre en photo. Je pense aussie que l'installation est très propice a se faire facilement briser au vue du fait que la toiles sur l'aquelle le pojet est projeter est mince et vas être touche en tout temps, il sufirait que quelle qu'un perdre l'équillibre pour que la toile se fase déchirer. Un autre point que j'ai pas aimer, est que sans l'explication des créateur qui sont juste a côter de l'installation, elle devient imposible a utiliser. Se que je veux dire par la ses que je n'aurait jamais su quil fallais que je touche la toile dans un mouvement de bas ver le haut pour faire apparètre une fleur ses très louin de la première chose qui me passe a l'esprit en voyant cela. De plus un ordinateur avec un moniteur est présent sur le côter gauche de l'installation et honnetement je pense que sa aurait été interressant qu'ils fasse une petite interface pour démontrer la banque de photo qu'ils utilise sur le moment.
+Je dirais que mon regard a pas vraiment changer sur se dispositif car sétait très similaire a l'exeption du fait que la vue étais plus petite ( se qui je pense étais pas une bonne ider) et que l'ont pouvais tourner se qui est bien mais il faut le remarquer car ses pas simple a remarker du tout.
 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
-
+le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
-
+Le cour d'animation 2d pour faire les animation sur l'écrant du jeux 
 #### 3:
-
+le cour de programation intéractive pour relier les control au jeux (je pense)
 ### Composante technique du projet que je ne connaissait pas:
 
-#### Phyton
-
-Ses le language de code qu'ils ont utiliser pour coder le programe qui récupère les données de la kineck pour les envoyer au programe qu'ils utilise pour l'affichage de l'interface qui est montrer a l'utilisateur.
-
+#### se que je connaissait pas
+je connaissait apeupret tous se qui étais présenter côter technique sur cette instalation mais bon si je devrais en dire que une se serais: le code pour relier les commande au jeux que je n'ais pas trop comprit encore exactement comment faire.
 
 
 
-## En 4 position: Arbre en face
+
+
+
+## En 4 position: Quand les yeux se croisent
 
 ### Créer par: 
-Alexandre Gendron, 
-Mikael Arseneau, 
-Mathieu Willett, 
-Matis Ghariani, 
-Rafael Angon Dube
+Félix Lavoie, 
+Jade Hébert, 
+Edelwyn Ledru, 
+Manel Yaya, 
+Patricia Nassif
 
 ### Installation finale dans le studio.
 
 ### Shéma de l'installation (au niveaux théorique)
-
+![croqui](photo/croqui_Quand_les_yeux_se_croisent.png)
 ### Se que cette installation ma fais ressentir.
-
+je trouvais cela très estétique et cool quelle soit en mesure de nous faire aparaitre sur les ecrant mais après un petit moment a la regarder j'ai perdu un peut tout l'intèret que j'avait enver elle mais en général je dirais que sétais intéressant.
 #### Avant de faire l'installation:
 
-Je dirais que la première fois que j'ai vue l'installation je ne savais pas trop faire de se que je voyais. Elles me semblais drolement "cheap" et je ne n'avais aucune ider de quoi faire sans les créateur a côter j'aurais perdue un moment sur l'insatallation a juste tenter de comprendre comment l'utiliser se qui (je trouve) est asser découragant pour une personnes qui est la pour tenter de vivre la totaliter de l'experience que l'installation peut donner.
-
+Je dirais que la première fois que j'ai vue l'installation je me demmandais se quelle pouvais bien avoir comme coter intéractif quelle aportais et je me dommandais a quoi servait les marques sur le plancher mais bon j'ai eu ma réponse asser vite.
 #### Apres avoir fais le tour de l'installation:
 
-Je dirais que mon regard a changer un peut. Se que jeveux dire par cela est que je comprend enfin un peut comment sa marche. Malheureusement le "fun" que j'ai eu avec cette installation a été très bref vue que le contenue quelle propose est très limiter (se termine en 30 seconde sans même se presser) se que je trouve asser desevant. De pus le fais que l'ont se fasse prendre en photo a l'entrer sans même avoir un avertisement (je pense) vas en frustrer plus d'un qui ne désirai pas se faire prendre en photo. Je pense aussie que l'installation est très propice a se faire facilement briser au vue du fait que la toiles sur l'aquelle le pojet est projeter est mince et vas être touche en tout temps, il sufirait que quelle qu'un perdre l'équillibre pour que la toile se fase déchirer. Un autre point que j'ai pas aimer, est que sans l'explication des créateur qui sont juste a côter de l'installation, elle devient imposible a utiliser. Se que je veux dire par la ses que je n'aurait jamais su quil fallais que je touche la toile dans un mouvement de bas ver le haut pour faire apparètre une fleur ses très louin de la première chose qui me passe a l'esprit en voyant cela. De plus un ordinateur avec un moniteur est présent sur le côter gauche de l'installation et honnetement je pense que sa aurait été interressant qu'ils fasse une petite interface pour démontrer la banque de photo qu'ils utilise sur le moment.
+Je dirais que mon regard a pas changer du tout. L'instalation a pas vraiment changer apart le fais quelle peut maintennant intéragir des deux côter, se qui est bien mais je dirais que sa a rien changer en raport a l'expérience quelle fesait vivre dans sa forme expérimentale.
 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
-
+le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
-
+Interactivité ludique pour les présentations des expériences visuelles qui apparaice et disparaice.
 #### 3:
-
+le cour de design graphique qui doit durement aider a faire le côter esthétique de l'instaltion. 
 ### Composante technique du projet que je ne connaissait pas:
 
-#### Phyton
-
-Ses le language de code qu'ils ont utiliser pour coder le programe qui récupère les données de la kineck pour les envoyer au programe qu'ils utilise pour l'affichage de l'interface qui est montrer a l'utilisateur.
-
+#### se que je connaissait pas
+je connaissait pas touch designer et sa ma permit de voir un peut se qu'il pouvait permettre de faire. 
 
 
 
-## En 3 position: Arbre en face
+
+## En 3 position: Mission Décollage
 
 ### Créer par: 
-Alexandre Gendron, 
-Mikael Arseneau, 
-Mathieu Willett, 
-Matis Ghariani, 
-Rafael Angon Dube
+Ahmed Kaissoumi, 
+Radhouane Kordan, 
+Justin Montpetit, 
+Thearylou Lach, 
+Jad Saloumi
 
 ### Installation finale dans le studio.
 
@@ -152,7 +151,7 @@ Je dirais que mon regard a changer un peut. Se que jeveux dire par cela est que 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
-
+le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
 
 #### 3:
@@ -192,7 +191,7 @@ Je dirais que mon regard a changer un peut. Se que jeveux dire par cela est que 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
-
+le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
 
 #### 3:
@@ -232,7 +231,7 @@ J'ai adorer, l'installation a un côter social qui donne l'impression que tout l
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
-
+le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
 
 #### 3:
