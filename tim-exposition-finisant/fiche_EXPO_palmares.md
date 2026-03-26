@@ -16,7 +16,7 @@ Matis Ghariani,
 Rafael Angon Dube
 
 ### Shéma de l'installation (au niveaux théorique)
-![croqui](photo/croqui_abre_en_face.png)
+![croqui](photo/croqui_arbre_en_face.png)
 
 ### Se que cette installation ma fais ressentir.
 pas grand chose pour être honnete. Je me suis juste dit sa fonctionne mais sans plus.
