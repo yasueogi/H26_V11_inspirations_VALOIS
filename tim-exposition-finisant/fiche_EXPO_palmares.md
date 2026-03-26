@@ -146,7 +146,7 @@ Je dirais que la première fois que j'ai vue l'installation je ne savais pas tro
 
 #### Apres avoir fais le tour de l'installation:
 
-Je dirais que mon regard a changer un peut. 
+Je dirais que mon regard a changer un peut. Mais bon il reste pareil sur presque tout les aspects. Je dirais que les seuls chose qui ont changer serait le fait qu'ils ont rendus le jeux beaucoup plus simple, se que je trouve asser dommage car sétais un des seul point qui donnais envie d'utiliser le dispositif. Ils ont aussie rajouter des animation de lancement et autre pour rendre cela plus beaux mais sinon sesrester identique 
 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
@@ -165,28 +165,27 @@ Ses le language de code qu'ils ont utiliser pour coder le programe qui récupèr
 
 
 
-## En 2 position: Arbre en face
+## En 2 position: Symbiose
 
 ### Créer par: 
-Alexandre Gendron, 
-Mikael Arseneau, 
-Mathieu Willett, 
-Matis Ghariani, 
-Rafael Angon Dube
+Yannick Chamberland, 
+Benjamin Ferland, 
+Ryan Dufault, 
+Walid Cheour
 
 ### Installation finale dans le studio.
 
 ### Shéma de l'installation (au niveaux théorique)
 
 ### Se que cette installation ma fais ressentir.
-
+ce dispositif ma fait resentir un côter défit (qui ma grandement plus) et un côter un peut plus social qui je trouve aportais le charme de l'oeuvre car tu pouvais faire plusieur fois le dispositif en aillant jamais la même expérience (due au fait que l'expérience se fait a plusieur et qu'ils y a 4 stations diférente). En résumer j'ai bien aimer l'instalation vue qu'elle rendais la nécésiter de faire confiance a d'autre personne de faire leur par a eu dans le défit que se tenais devant le groupe.
 #### Avant de faire l'installation:
 
-Je dirais que la première fois que j'ai vue l'installation je ne savais pas trop faire de se que je voyais. Elles me semblais drolement "cheap" et je ne n'avais aucune ider de quoi faire sans les créateur a côter j'aurais perdue un moment sur l'insatallation a juste tenter de comprendre comment l'utiliser se qui (je trouve) est asser découragant pour une personnes qui est la pour tenter de vivre la totaliter de l'experience que l'installation peut donner.
+Je dirais que la première fois que j'ai vue l'installation je ne savais pas exactement se qu'il y aurait a faire avec chacunne des stations qui étais devant l'écrant. Parcontre, j'ai remarquer insttentanément qu'il sajisait d'une forme de jeux vidéo qui devait être jouer par plusieur personne en même temps.  
 
 #### Apres avoir fais le tour de l'installation:
 
-Je dirais que mon regard a changer un peut. Se que jeveux dire par cela est que je comprend enfin un peut comment sa marche. Malheureusement le "fun" que j'ai eu avec cette installation a été très bref vue que le contenue quelle propose est très limiter (se termine en 30 seconde sans même se presser) se que je trouve asser desevant. De pus le fais que l'ont se fasse prendre en photo a l'entrer sans même avoir un avertisement (je pense) vas en frustrer plus d'un qui ne désirai pas se faire prendre en photo. Je pense aussie que l'installation est très propice a se faire facilement briser au vue du fait que la toiles sur l'aquelle le pojet est projeter est mince et vas être touche en tout temps, il sufirait que quelle qu'un perdre l'équillibre pour que la toile se fase déchirer. Un autre point que j'ai pas aimer, est que sans l'explication des créateur qui sont juste a côter de l'installation, elle devient imposible a utiliser. Se que je veux dire par la ses que je n'aurait jamais su quil fallais que je touche la toile dans un mouvement de bas ver le haut pour faire apparètre une fleur ses très louin de la première chose qui me passe a l'esprit en voyant cela. De plus un ordinateur avec un moniteur est présent sur le côter gauche de l'installation et honnetement je pense que sa aurait été interressant qu'ils fasse une petite interface pour démontrer la banque de photo qu'ils utilise sur le moment.
+Je dirais que mon regard a changer un peut.
 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
