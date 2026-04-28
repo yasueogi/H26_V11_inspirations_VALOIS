@@ -15,6 +15,9 @@ Mathieu Willett,
 Matis Ghariani, 
 Rafael Angon Dube
 
+### Installation finale dans le studio.
+![finals](photo/finals_abre_en_face.png)
+
 ### Shéma de l'installation (au niveaux théorique)
 ![croqui](photo/croqui_arbre_en_face.png)
 
@@ -55,6 +58,7 @@ Kristy Moussally
 
 ### Installation finale dans le studio.
 
+![finals](photo/finals_ocean_rouge.png)
 
 ### Shéma de l'installation (au niveaux théorique)
 ![croqui](photo/croqui_ocean_rouge.png)
