@@ -20,6 +20,7 @@ Rafael Angon Dube
 
 ### Shéma de l'installation (au niveaux théorique)
 ![croqui](photo/croqui_arbre_en_face.png)
+*salut*
 
 ### Se que cette installation ma fais ressentir.
 pas grand chose pour être honnete. Je me suis juste dit sa fonctionne mais sans plus.
@@ -108,7 +109,7 @@ Patricia Nassif
 
 ### Shéma de l'installation (au niveaux théorique)
 
-![croqui](photo/croqui_Quand_les_yeux_se_croisent.png)
+![croqui](photo/croqui_quand_les_yeux_se_croisent.png)
 
 ### Se que cette installation ma fais ressentir.
 je trouvais cela très estétique et cool quelle soit en mesure de nous faire aparaitre sur les ecrant mais après un petit moment a la regarder j'ai perdu un peut tout l'intèret que j'avait enver elle mais en général je dirais que sétais intéressant.
