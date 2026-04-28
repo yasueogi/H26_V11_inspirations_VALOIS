@@ -61,7 +61,9 @@ Kristy Moussally
 ![finals](photo/finals_ocean_rouge.png)
 
 ### Shéma de l'installation (au niveaux théorique)
+
 ![croqui](photo/croqui_ocean_rouge.png)
+
 ### Se que cette installation ma fais ressentir.
 Je dirais que les 30 première seconde étais asser plaisant mais que apres en sen l'assait rapidement. 
 
@@ -102,8 +104,12 @@ Patricia Nassif
 
 ### Installation finale dans le studio.
 
+![finals](photo/finals_quand_les_yeux_se_croisent.jpg)
+
 ### Shéma de l'installation (au niveaux théorique)
+
 ![croqui](photo/croqui_Quand_les_yeux_se_croisent.png)
+
 ### Se que cette installation ma fais ressentir.
 je trouvais cela très estétique et cool quelle soit en mesure de nous faire aparaitre sur les ecrant mais après un petit moment a la regarder j'ai perdu un peut tout l'intèret que j'avait enver elle mais en général je dirais que sétais intéressant.
 #### Avant de faire l'installation:
@@ -140,7 +146,11 @@ Jad Saloumi
 
 ### Installation finale dans le studio.
 
+![finals](photo/finals_oignon.png)
+
 ### Shéma de l'installation (au niveaux théorique)
+
+![croqui](photo/croqui_oignon.png)
 
 ### Se que cette dispositif ma fais ressentir.
 Ce dispositif ma fait ressentir un petit "rush" d'adrénaline due au fait que je me suis retrouver face a un défit. Se qui n'as pas durer longtemp malheureusement, apret l'avoir batue j'ai perdut rapidement l'interet que j'avais dans le dispositif. Mais le fait de voir les autres tenter étais asser "fun" je dirais. je pense que je décrirais cela par une expérience social, ce que je veux dire par cela ses que ceux qui avait réussie tentais d'aider les autres a réussir aussie. Se comme le dispositif tentais de démontrer que l'humain tente tout le temps de s'entre aider dans des moment de difficulter commun. 
@@ -179,7 +189,11 @@ Walid Cheour
 
 ### Installation finale dans le studio.
 
+![finals](photo/finals_symbiose.png)
+
 ### Shéma de l'installation (au niveaux théorique)
+
+![croqui](photo/croqui_symbiose.webp)
 
 ### Se que cette installation ma fais ressentir.
 ce dispositif ma fait resentir un côter défit (qui ma grandement plus) et un côter un peut plus social qui je trouve aportais le charme de l'oeuvre car tu pouvais faire plusieur fois le dispositif en aillant jamais la même expérience (due au fait que l'expérience se fait a plusieur et qu'ils y a 4 stations diférente). En résumer j'ai bien aimer l'instalation vue qu'elle rendais la nécésiter de faire confiance a d'autre personne de faire leur par a eu dans le défit que se tenais devant le groupe.
@@ -219,7 +233,12 @@ Mégane Ranger
 
 ### Installation finale dans le studio.
 
+![finals](photo/finals_terminale.jpg)
+
 ### Shéma de l'installation (au niveaux théorique)
+
+![croqui](photo/croqui_terminale_1.png)
+![croqui](photo/croqui_terminale_2.png)
 
 ### Se que cette installation ma fais ressentir.
 
