@@ -17,10 +17,10 @@ Rafael Angon Dube
 
 ### Installation finale dans le studio.
 ![finals](photo/finals_abre_en_face.png)
-
+*Photo de l'installation finals du dispositif / Photo prise sur leur site web.*
 ### Shéma de l'installation (au niveaux théorique)
-![croqui](photo/croqui_arbre_en_face.png)
-*salut*
+![croqui](photo/croqui_abre_en_face.webp)
+*Croqui du dispositif / Photo prise sur leur site web.*
 
 ### Se que cette installation ma fais ressentir.
 pas grand chose pour être honnete. Je me suis juste dit sa fonctionne mais sans plus.
@@ -60,11 +60,11 @@ Kristy Moussally
 ### Installation finale dans le studio.
 
 ![finals](photo/finals_ocean_rouge.png)
-
+*Photo de l'installation finals du dispositif / Photo prise sur leur site web.*
 ### Shéma de l'installation (au niveaux théorique)
 
 ![croqui](photo/croqui_ocean_rouge.png)
-
+*Croqui du dispositif / Photo prise sur leur site web.*
 ### Se que cette installation ma fais ressentir.
 Je dirais que les 30 première seconde étais asser plaisant mais que apres en sen l'assait rapidement. 
 
@@ -106,11 +106,11 @@ Patricia Nassif
 ### Installation finale dans le studio.
 
 ![finals](photo/finals_quand_les_yeux_se_croisent.jpg)
-
+*Photo de l'installation finals du dispositif / Photo prise sur leur site web.*
 ### Shéma de l'installation (au niveaux théorique)
 
 ![croqui](photo/croqui_quand_les_yeux_se_croisent.png)
-
+*Croqui du dispositif / Photo prise sur leur site web.*
 ### Se que cette installation ma fais ressentir.
 je trouvais cela très estétique et cool quelle soit en mesure de nous faire aparaitre sur les ecrant mais après un petit moment a la regarder j'ai perdu un peut tout l'intèret que j'avait enver elle mais en général je dirais que sétais intéressant.
 #### Avant de faire l'installation:
@@ -148,11 +148,11 @@ Jad Saloumi
 ### Installation finale dans le studio.
 
 ![finals](photo/finals_oignon.png)
-
+*Photo de l'installation finals du dispositif / Photo prise sur leur site web.*
 ### Shéma de l'installation (au niveaux théorique)
 
 ![croqui](photo/croqui_oignon.png)
-
+*Croqui du dispositif / Photo prise sur leur site web.*
 ### Se que cette dispositif ma fais ressentir.
 Ce dispositif ma fait ressentir un petit "rush" d'adrénaline due au fait que je me suis retrouver face a un défit. Se qui n'as pas durer longtemp malheureusement, apret l'avoir batue j'ai perdut rapidement l'interet que j'avais dans le dispositif. Mais le fait de voir les autres tenter étais asser "fun" je dirais. je pense que je décrirais cela par une expérience social, ce que je veux dire par cela ses que ceux qui avait réussie tentais d'aider les autres a réussir aussie. Se comme le dispositif tentais de démontrer que l'humain tente tout le temps de s'entre aider dans des moment de difficulter commun. 
 #### Avant de faire l'installation:
@@ -168,14 +168,14 @@ Je dirais que mon regard a changer un peut. Mais bon il reste pareil sur presque
 #### 1: 
 le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
-
+le cour d'illustration numérique pour le desing graphique des assets 2d sur photoshop.
 #### 3:
 
 ### Composante technique du projet que je ne connaissait pas:
 
-#### Phyton
+#### Pure Data
 
-Ses le language de code qu'ils ont utiliser pour coder le programe qui récupère les données de la kineck pour les envoyer au programe qu'ils utilise pour l'affichage de l'interface qui est montrer a l'utilisateur.
+ses un logiciel qu'il ont utiliser pour faire la gestion de l'osc et le transfert des données reçus du ardinio vers unity.
 
 
 
@@ -191,11 +191,11 @@ Walid Cheour
 ### Installation finale dans le studio.
 
 ![finals](photo/finals_symbiose.png)
-
+*Photo de l'installation finals du dispositif / Photo prise sur leur site web.*
 ### Shéma de l'installation (au niveaux théorique)
 
 ![croqui](photo/croqui_symbiose.webp)
-
+*Croqui du dispositif / Photo prise sur leur site web.*
 ### Se que cette installation ma fais ressentir.
 ce dispositif ma fait resentir un côter défit (qui ma grandement plus) et un côter un peut plus social qui je trouve aportais le charme de l'oeuvre car tu pouvais faire plusieur fois le dispositif en aillant jamais la même expérience (due au fait que l'expérience se fait a plusieur et qu'ils y a 4 stations diférente). En résumer j'ai bien aimer l'instalation vue qu'elle rendais la nécésiter de faire confiance a d'autre personne de faire leur par a eu dans le défit que se tenais devant le groupe.
 #### Avant de faire l'installation:
@@ -204,22 +204,21 @@ Je dirais que la première fois que j'ai vue l'installation je ne savais pas exa
 
 #### Apres avoir fais le tour de l'installation:
 
-Je dirais que mon regard a changer un peut.
+Je dirais que mon regard a changer un peut. Mais je dirais que j'ai bien aprécier l'expérience. Je trouve que la cordination ou le travail d'équipe demander pour utiliser le dispositif est bien pensé selon moi. Je trouve aussie que les information nécessaire a comprendre pour avancer sont asser bien démontrer de facon graphique sur l'écrant. Le seul point que je trouve un peut domage est que la fiole a verser est loin d'être qualibrer pour être intuitive.
 
 ### 3 cour dans la technique qui sont utilliser dans cette installation.
 
 #### 1: 
 le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
-
+le cour d'audio 1 pour la composition audio qui est jouer durant l'intéraction.
 #### 3:
-
+le cour d'illustration numérique pour le desing graphique des assets sur photoshop.
 ### Composante technique du projet que je ne connaissait pas:
 
-#### Phyton
+#### Maya / Blender
 
-Ses le language de code qu'ils ont utiliser pour coder le programe qui récupère les données de la kineck pour les envoyer au programe qu'ils utilise pour l'affichage de l'interface qui est montrer a l'utilisateur.
-
+Ses des logiciels de modélisation 3d que je ne connais pas vraiment et qui sert a design beaucoup de chose dans les projets.
 
 
 
@@ -235,12 +234,12 @@ Mégane Ranger
 ### Installation finale dans le studio.
 
 ![finals](photo/finals_terminale.jpg)
-
+*Photo de l'installation finals du dispositif / Photo prise sur leur site web.*
 ### Shéma de l'installation (au niveaux théorique)
 
 ![croqui](photo/croqui_terminale_1.png)
 ![croqui](photo/croqui_terminale_2.png)
-
+*Croquis du dispositif / Ses Photos ont été prise sur leur site web.*
 ### Se que cette installation ma fais ressentir.
 
 #### Avant de faire l'installation:
@@ -256,9 +255,9 @@ J'ai adorer, l'installation a un côter social qui donne l'impression que tout l
 #### 1: 
 le cour de exposition multimédia qui selont moi aide a avoir des ider et a comprendre mieux commnet faire sa propre exposition.
 #### 2:
-
+le cour d'audio 1 pour la composition audio qui est jouer durant l'intéraction.
 #### 3:
-
+le cour de modélisation 3d pour la réalisation des croquis pour la réalisation du projet.
 ### Composante technique du projet que je ne connaissait pas:
 
 #### Infrastructure de network local
