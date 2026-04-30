@@ -63,15 +63,15 @@ Se dispositif est penséer avec le vouloir de faire sentre aider plusieur person
 ## Se que je trouve interessant a garder dans l'oeuvre.
 
 1. je trouve que le côter interactif de l'oeuvre est vraiment un point fort.
-2. je trouve que l'intérface graphique étais simple et comprénsible sans trop être limitante au niveaux codes pour des enfants qui découvre le code.
-3. je pense que mettre le dispositif dans une piece séparer est un bonne idéer sa donne une atmoshère plus calme pour permettre de mieux se concentrer sur le dispositif.
+2. je trouve que l'intérface graphique étais simple et comprénsible.
+3. je pense que la disposition du dispositif est a garder car elle permet naturellement d'avoir un public
 
 ## Se que je pense qui pourrait être améliorer.
 
-1. je n'aime pas le fais qu'elle marche pas constament.
-2. j'aurais aimer plus de paramètre a jouer avec (par exemple: moteur pour modifierr la auteur de certaine partie de la maquette qui sert a faire de l'ombre.
-3. Je Pense qu'il serait intéressant de créer un moment de le rendre possible a utiliser a plusieur en même temps (en collaboration) 
+1. Il y a quelle que bugs.
+2. j'aurais aimer avoir une option pour jouer même si je n'avait pas mon telephone.
+3. Je Pense qu'il serait intéressant de créer certaine intéraction physique (par exemple: un bouton ou une roulette).
 
 ## Référence
 
-- Les photos que j'ai prise, les informations qui étais présente sur le lieux d'exposition et des recherches pour savoir quand la zonne explore a été créer.
+- Les photos que j'ai pris et les informations qui étais présente leur sites githubs.
