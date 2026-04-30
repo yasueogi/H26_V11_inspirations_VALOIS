@@ -27,7 +27,7 @@ Se dispositif est penséer avec le vouloir de faire sentre aider plusieur person
 
 ## Mon expérience personnel de l'oeuvre.
 
-![photo](#vidéo de moi qui tente d'utiliser le dispositif)
+![vidéo]([#vidéo de moi qui tente d'utiliser le dispositif](https://youtu.be/K3V4j2jqcgQ))
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
@@ -37,9 +37,10 @@ Se dispositif est penséer avec le vouloir de faire sentre aider plusieur person
 
 ## Se qui est nécésaire en terme de matériel pour faire l'oeuvre.
 
-![photo](photo/tech_compost_croquie_20260129.png)
+![photo](photo/croqui_terminale_1.png)
+![photo](photo/croqui_terminale_2.png)
 
->Croquis vite fait de l'instalation du dispositif / fait par Loïc Valois.
+>Croquis prit sur leur site github/ fait par Loïc Valois.
 
 - Un pc
 - Un routeur wi-fi 
