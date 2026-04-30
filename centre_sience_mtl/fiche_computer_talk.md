@@ -23,6 +23,7 @@ Ce dispositif est pensé avec le vouloir de captiver l'attention de l'utilisateu
 ## Mon expérience personnel de l'oeuvre.
 
 [![vidéo](photo/ecrant_plan_ensemble.png)](https://youtu.be/dV_LOUxJW2c)
+cliquer sur l'image pour voir la vidéo
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
@@ -62,5 +63,7 @@ Ce dispositif est pensé avec le vouloir de captiver l'attention de l'utilisateu
 3. Je pense qu'il serait intéressant de créer un moment pour le rendre possible à utiliser à plusieurs en même temps (en collaboration). 
 
 ## Référence
+
+![photo](photo/building_plan_large_moi.png)
 
 – Les photos que j'ai prises, les informations qui étaient présentes sur le lieu d'exposition et des recherches pour savoir quand la zone Explore a été créée.
