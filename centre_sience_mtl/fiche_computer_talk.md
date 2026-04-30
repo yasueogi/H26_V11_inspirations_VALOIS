@@ -22,7 +22,7 @@ Ce dispositif est pensé avec le vouloir de captiver l'attention de l'utilisateu
 
 ## Mon expérience personnel de l'oeuvre.
 
-![#vidéo de moi qui tente d'utiliser le dispositif](https://youtu.be/dV_LOUxJW2c)
+[![vidéo](https://youtu.be/dV_LOUxJW2c)](https://youtu.be/dV_LOUxJW2c)
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
