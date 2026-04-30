@@ -1,4 +1,4 @@
-# Dispositif Le langague des ordinateur de la firme UBISOFT. Présenter au cetre des sciences de montréal.
+# Dispositif Le langage des ordinateurs de la firme UBISOFT. Présenter au Centre des sciences de Montréal.
 
 ![photo](#)
 
@@ -6,32 +6,30 @@
 
 ## Information general sur le dispositif.
 
-![photo](#)
+![photo](photo/fiche_créateur.png)
 
->Photo de la fiche d'information de l'oeuvre / Photo de Loïc Valois.
+>Photos de la fiche d'information de l'oeuvre / Photos de Loïc Valois.
 
 - Nom de la firme: Ubisoft (l'équipe de Watch_Dogs 2) 
 - Type d'exposition: permanente 
-- Date presentation et lieu: Les jours d'ouverture du centre des sciences de montréal
+– Date de présentation et lieu : les jours d'ouverture du Centre des sciences de Montréal.
 - Année de production de l'oeuvre: 2020
 
+## Comment le dispositif a été pensé.
 
-
-## Comment le dispositif a été penser.
-
-Se dispositif est penséer avec le vouloir de captiver l'attention de l'utillisateur (souvent de jeune âges dans le cas de se dispositif) en lui donnant un controle absolut ou presque sur se que le jeux d'ombres seras devant lui en finaliter. L'interface de codage a été simplifier dans le buts de rendre le codage accesible tous ten donnant la base de la penser nécesaire pour coder. Ils a aussie été penser dans le buts de faire travailler l'esprit logique du jeune qui tente de l'utiliser. Pour finir, ils est penser pour démontrer une possibiliter de carière ou de loisir dans l'espoire de créer un interet a long terme cher l'utilisateur.
+Ce dispositif est pensé avec le vouloir de captiver l'attention de l'utilisateur (souvent de jeune âge dans le cas de ce dispositif) en lui donnant un contrôle absolu ou presque sur ce que le jeu d'ombres sera devant lui en finalité L'interface de codage a été simplifiée dans le but de rendre le codage accessible à tous en donnant la base de la pensée nécessaire pour coder. Ils ont aussi été pensés dans le but de faire travailler l'esprit logique du jeune qui tente de l'utiliser. Pour finir, il est pensé pour démontrer une possibilité de carrière ou de loisir dans l'espoir de créer un intérêt à long terme chez l'utilisateur.
 
 ## Mon expérience personnel de l'oeuvre.
 
-![photo](#vidéo de moi qui tente d'utiliser le dispositif)
+! [photo](#vidéo de moi qui tente d'utiliser le dispositif)
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
-- Je dirais que le premier regard que j'ai poser sur ce dispositif étais très possitif, car je trouve que l'approche qu'il ont utilliser pour rendre la programation plus intéractive est bien penser.
-- Malheureusement quand j'ai tenté de l'utiliser la deuxième fois, le dispositif ne répondais tous simplement pas. Se qui ma casser un peut mon expérience.
-- Je trouve que cétais pas mals car sa permet au cerveaux de voir de manière très concrette et physique l'impaque du code qu'il peut faire.
+— Je dirais que le premier regard que j'ai posé sur ce dispositif était très positif, car je trouve que l'approche qu'ils ont utilisée pour rendre la programmation plus interactive est bien pensée.
+– Malheureusement quand j'ai tenté de l'utiliser la deuxième fois, le dispositif ne répondait tout simplement pas. Ce qui m'a un peu cassé mon expérience.
+— Je trouve que c'était pas mal car ça permet au cerveau de voir de manière très concrète et physique l'impact du code qu'il peut faire.
 
-## Se qui est nécésaire en terme de matériel pour faire l'oeuvre.
+## Ce qui est nécessaire en termes de matériel pour faire l'œuvre.
 
 ![photo](photo/tech_compost_croquie_20260129.png)
 
@@ -39,29 +37,29 @@ Se dispositif est penséer avec le vouloir de captiver l'attention de l'utillisa
 
 - Un pc
 - Une petite maquette 
-- Deux lumière de couleur 
-- Un projecteur ( au plafont pour la fiche sur le côter)
-- Une air de projection pour les ombres (un mur blanc)
-- Un moteur bidirectionelle
-- Un fils hdmi
-- Minimum 2 prise électrique
-- Une écrant tactille
-- Les fils pour connecter les moteurs et lumière au pc
-- Un habitacle pour rendre le pc moins accesible (limiter les casses)
+– Deux lumières de couleur. 
+– Un projecteur (au plafond pour la fiche sur le côté
+– Un air de projection pour les ombres (un mur blanc).
+– Un moteur bidirectionnel.
+– Un fils HDMI.
+– Minimum 2 prises électriques
+– Un écran tactile.
+– Les fils pour connecter les moteurs et la lumière au PC.
+– Un habitacle pour rendre le PC moins accessible (limiter les casses).
 - Une salle plus sombre
 
-## Se que je trouve interessant a garder dans l'oeuvre.
+## Ce que je trouve intéressant à garder dans l'œuvre.
 
-1. je trouve que le côter interactif de l'oeuvre est vraiment un point fort.
-2. je trouve que l'intérface graphique étais simple et comprénsible sans trop être limitante au niveaux codes pour des enfants qui découvre le code.
-3. je pense que mettre le dispositif dans une piece séparer est un bonne idéer sa donne une atmoshère plus calme pour permettre de mieux se concentrer sur le dispositif.
+1. Je trouve que le côté interactif de l'œuvre est vraiment un point fort.
+2. Je trouve que l'interface graphique était simple et compréhensible sans trop être limitante au niveau code pour des enfants qui découvrent le code.
+3. Je pense que mettre le dispositif dans une pièce séparée est une bonne idée, ça donne une atmosphère plus calme pour permettre de mieux se concentrer sur le dispositif.
 
-## Se que je pense qui pourrait être améliorer.
+## Ce que je pense qui pourrait être amélioré.
 
-1. je n'aime pas le fais qu'elle marche pas constament.
-2. j'aurais aimer plus de paramètre a jouer avec (par exemple: moteur pour modifierr la auteur de certaine partie de la maquette qui sert a faire de l'ombre.
-3. Je Pense qu'il serait intéressant de créer un moment de le rendre possible a utiliser a plusieur en même temps (en collaboration) 
+1. Je n'aime pas le fait qu'elle marche pas constamment.
+2. J'aurais aimé plus de paramètres à jouer avec (par exemple : moteur pour modifier la hauteur de certaines parties de la maquette qui sert à faire de l'ombre).
+3. Je pense qu'il serait intéressant de créer un moment pour le rendre possible à utiliser à plusieurs en même temps (en collaboration). 
 
 ## Référence
 
-- Les photos que j'ai prise, les informations qui étais présente sur le lieux d'exposition et des recherches pour savoir quand la zonne explore a été créer.
+– Les photos que j'ai prises, les informations qui étaient présentes sur le lieu d'exposition et des recherches pour savoir quand la zone Explore a été créée.
