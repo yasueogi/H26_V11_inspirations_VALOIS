@@ -1,6 +1,6 @@
 # Dispositif Terminale fait par les étudians de tim du céjept de monmornecy.
 
-![photo](plant_ensemble_terminale.png)
+![photo](photo/plant_ensemble_terminale.png)
 
 >Photo que j'ai prise de l'emsemble de l'instalation du dispositif / photos toutes prise le 18 mars 2026.
 
