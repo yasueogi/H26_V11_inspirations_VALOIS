@@ -33,7 +33,7 @@ cliquer sur l'image pour voir la vidéo
 
 ## Ce qui est nécessaire en termes de matériel pour faire l'œuvre.
 
-![photo](photo/tech_compost_croquie_20260129.png)
+![photo](photo/croqui_dispositif.png)
 
 >Croquis vite fait de l'instalation de l'oeuvre / fait par Loïc Valois.
 
