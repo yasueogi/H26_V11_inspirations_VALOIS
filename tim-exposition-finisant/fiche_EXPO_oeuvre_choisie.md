@@ -10,10 +10,17 @@
 
 >Photo de la fiche d'information de l'oeuvre / Photo de Loïc Valois.
 
-- Nom de la firme: Ubisoft (l'équipe de Watch_Dogs 2) 
-- Type d'exposition: permanente 
-- Date presentation et lieu: Les jours d'ouverture du centre des sciences de montréal
-- Année de production de l'oeuvre: 2020
+- Nom des auteurs:
+  
+- Émeryk Bélisle,
+- Elie Daher,
+- Ting Yung Lu Terry,
+- Dana Saavedra-Torrano,
+- Mégane Ranger
+  
+- Type d'exposition: temporaire
+- Date presentation et lieu: du 16 au 19 mars 2026 au grand stusion du cèjep montmorency
+- Année de production de l'oeuvre: 2025/2026
 
 
 
