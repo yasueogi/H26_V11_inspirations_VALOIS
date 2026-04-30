@@ -1,4 +1,4 @@
-# Dispositif Le langague des ordinateur de la firme UBISOFT. Présenter au cetre des sciences de montréal.
+# Dispositif Terminale fait par les étudians de tim du céjept de monmornecy.
 
 ![photo](#)
 
@@ -6,9 +6,6 @@
 
 ## Information general sur le dispositif.
 
-![photo](#)
-
->Photo de la fiche d'information de l'oeuvre / Photo de Loïc Valois.
 
 - Nom des auteurs:
   
@@ -26,7 +23,7 @@
 
 ## Comment le dispositif a été penser.
 
-Se dispositif est penséer avec le vouloir de captiver l'attention de l'utillisateur (souvent de jeune âges dans le cas de se dispositif) en lui donnant un controle absolut ou presque sur se que le jeux d'ombres seras devant lui en finaliter. L'interface de codage a été simplifier dans le buts de rendre le codage accesible tous ten donnant la base de la penser nécesaire pour coder. Ils a aussie été penser dans le buts de faire travailler l'esprit logique du jeune qui tente de l'utiliser. Pour finir, ils est penser pour démontrer une possibiliter de carière ou de loisir dans l'espoire de créer un interet a long terme cher l'utilisateur.
+Se dispositif est penséer avec le vouloir de faire sentre aider plusieur personnes (qui ne connaissent pas forcément) au travers de plusieur niveaux de plus en plus durs.
 
 ## Mon expérience personnel de l'oeuvre.
 
@@ -34,28 +31,34 @@ Se dispositif est penséer avec le vouloir de captiver l'attention de l'utillisa
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
-- Je dirais que le premier regard que j'ai poser sur ce dispositif étais très possitif, car je trouve que l'approche qu'il ont utilliser pour rendre la programation plus intéractive est bien penser.
-- Malheureusement quand j'ai tenté de l'utiliser la deuxième fois, le dispositif ne répondais tous simplement pas. Se qui ma casser un peut mon expérience.
-- Je trouve que cétais pas mals car sa permet au cerveaux de voir de manière très concrette et physique l'impaque du code qu'il peut faire.
+- Je dirais que le premier regard que j'ai poser sur ce dispositif étais très possitif, car je trouve que l'ider de faire un jeux coopératif est bien selon moi.
+- Je trouve que le dispositif est bien penser car les controle sont simple a comprendre peut importe l'âge.
+- Je trouve que le dispositif est aussie bien a regarder que a utiliser car ont a l'impression de voir nous il y a deux minutes.
 
 ## Se qui est nécésaire en terme de matériel pour faire l'oeuvre.
 
 ![photo](photo/tech_compost_croquie_20260129.png)
 
->Croquis vite fait de l'instalation de l'oeuvre / fait par Loïc Valois.
+>Croquis vite fait de l'instalation du dispositif / fait par Loïc Valois.
 
 - Un pc
-- Une petite maquette 
-- Deux lumière de couleur 
-- Un projecteur ( au plafont pour la fiche sur le côter)
-- Une air de projection pour les ombres (un mur blanc)
-- Un moteur bidirectionelle
+- Un routeur wi-fi 
+- Des appareil en mesure de se connecter au wi-fi (amener par les utilisateurs)
+- Un projecteur
+- De shaut pârleur amplifier (2)
+- Un sender/receiver
 - Un fils hdmi
-- Minimum 2 prise électrique
-- Une écrant tactille
-- Les fils pour connecter les moteurs et lumière au pc
-- Un habitacle pour rendre le pc moins accesible (limiter les casses)
-- Une salle plus sombre
+- Des cablec ethernet (3-4)
+- Deux cable xlr
+- Des cables d'alimentation
+- Un multiprise
+- Une lumière plafond american dj
+- Des batons de lumières (2-4)
+- Une boite de lumière
+- Des ralonges pour lumière (2-4)
+- Des powers supply pour les lumières
+- Des boules de connections de lumière
+- Une carte graphique extérieur
 
 ## Se que je trouve interessant a garder dans l'oeuvre.
 
