@@ -2,7 +2,7 @@
 
 ![photo](photo/lumière_plan_large.png)
 
->Photo que j'ai prise de la zone de projection de l'oeuvre. / photos toutes prise le 7 avril 2025.
+>Photo que j'ai prise de la zone de projection de l'oeuvre. / photos toutes prise le 7 avril 2026.
 
 ## Information general sur le dispositif.
 
