@@ -27,7 +27,7 @@ Se dispositif est penséer avec le vouloir de faire sentre aider plusieur person
 
 ## Mon expérience personnel de l'oeuvre.
 
-![vidéo]([photo/Youtube_logo.png](https://youtu.be/K3V4j2jqcgQ))
+[![vidéo](photo/Youtube_logo.png)](https://youtu.be/K3V4j2jqcgQ)
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
