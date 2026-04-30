@@ -1,12 +1,13 @@
 # Dispositif Le langage des ordinateurs de la firme UBISOFT. Présenter au Centre des sciences de Montréal.
 
-![photo](#)
+![photo](photo/lumière_plan_large.png)
 
->Photo que j'ai prise de l'emsemble de l'instalation de l'oeuvre (Il manque un projecteur qui est en dehors du frame mais sinon tout est la) / photos toutes prise le 29 decembre 2025.
+>Photo que j'ai prise de la zone de projection de l'oeuvre. / photos toutes prise le 29 decembre 2025.
 
 ## Information general sur le dispositif.
 
 ![photo](photo/fiche_créateur.png)
+![photo](photo/carte_plan_ensemble.png)
 
 >Photos de la fiche d'information de l'oeuvre / Photos de Loïc Valois.
 
@@ -21,7 +22,7 @@ Ce dispositif est pensé avec le vouloir de captiver l'attention de l'utilisateu
 
 ## Mon expérience personnel de l'oeuvre.
 
-! [photo](#vidéo de moi qui tente d'utiliser le dispositif)
+![vidéo]([#vidéo de moi qui tente d'utiliser le dispositif](https://youtu.be/dV_LOUxJW2c))
 
 >vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
