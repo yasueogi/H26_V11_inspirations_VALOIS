@@ -10,10 +10,10 @@
 
 >Photo de la fiche d'information de l'oeuvre / Photo de Loïc Valois.
 
-- Nom de l'artiste: Marie ève Levasseur
+- Nom de la firme: Ubisoft (l'équipe de Watch_Dogs 2) 
 - Type d'exposition: permanente 
 - Date presentation et lieu: Les jours d'ouverture du centre des sciences de montréal
-- Année de production de l'oeuvre: 2025
+- Année de production de l'oeuvre: 2020
 
 
 
@@ -25,11 +25,11 @@ Se dispositif est penséer avec le vouloir de captiver l'attention de l'utillisa
 
 ![photo](#vidéo de moi qui tente d'utiliser le dispositif)
 
->Photo d'un étudiant qui est entrein d'intéragir avec l'oeuvre / Photo de Loïc Valois.
+>vidéo de moi qui tente d'utiliser le dispositif / Prise de Loïc Valois.
 
-- Je dirais que le premier regard que j'ai poser sur cette oeuvre étais pas vraiment positif (sa ma prit un certain moment a comprendre de quoi il sagisait.)
-- Quand je comprit finalement enfin le concept (qui savère a être un détecteur d'onde alpha) mon regard sur l'oeuvre a changer drastiquement. Je l'ai prit comme un défie de se calmer (car les ondes alpha sont celle du sommeil et de la méditation).
-- Je trouve que cétais pas mals car a plusieur moment plusieur personne se trouvais a l,entour du dispositif pour voir les autres personnes tenter de calmer en quelle que sorte la machine. Se qui je trouve est manifique en terme de contact humain ses un bon moyen de se regrouper.
+- Je dirais que le premier regard que j'ai poser sur ce dispositif étais très possitif, car je trouve que l'approche qu'il ont utilliser pour rendre la programation plus intéractive est bien penser.
+- Malheureusement quand j'ai tenté de l'utiliser la deuxième fois, le dispositif ne répondais tous simplement pas. Se qui ma casser un peut mon expérience.
+- Je trouve que cétais pas mals car sa permet au cerveaux de voir de manière très concrette et physique l'impaque du code qu'il peut faire.
 
 ## Se qui est nécésaire en terme de matériel pour faire l'oeuvre.
 
@@ -37,29 +37,31 @@ Se dispositif est penséer avec le vouloir de captiver l'attention de l'utillisa
 
 >Croquis vite fait de l'instalation de l'oeuvre / fait par Loïc Valois.
 
-- Un pc (je saurait pas dire exactement se qui est nécésaire en terme de composant.
-- Un bando capable de capter les ondes alpha (a baterie et connectable)
-- Un banc creus pour pouvoir mettre le pc en dessous.
-- Un projecteur ( au plafont )
-- Une air de projection
-- Une herse au plafont (pour le projecteur)
+- Un pc
+- Une petite maquette 
+- Deux lumière de couleur 
+- Un projecteur ( au plafont pour la fiche sur le côter)
+- Une air de projection pour les ombres (un mur blanc)
+- Un moteur bidirectionelle
 - Un fils hdmi
-- Minimum 3 prise électrique
-- Un panneau graphique
-- Le fils pour connecter le panneau au pc
+- Minimum 2 prise électrique
+- Une écrant tactille
+- Les fils pour connecter les moteurs et lumière au pc
+- Un habitacle pour rendre le pc moins accesible (limiter les casses)
+- Une salle plus sombre
 
 ## Se que je trouve interessant a garder dans l'oeuvre.
 
-1. je trouve que le côter interactif de l'oeuvre est vraiment un de ses point fort.
-2. je trouve que l'installation étais asser bien penser se qui aide a l'imersion.
-3. je pense que laisser de la liberter a l'intelligence artificielle peut être quelle que chose d'interressant a travailler dessue a l'avenir.
+1. je trouve que le côter interactif de l'oeuvre est vraiment un point fort.
+2. je trouve que l'intérface graphique étais simple et comprénsible sans trop être limitante au niveaux codes pour des enfants qui découvre le code.
+3. je pense que mettre le dispositif dans une piece séparer est un bonne idéer sa donne une atmoshère plus calme pour permettre de mieux se concentrer sur le dispositif.
 
 ## Se que je pense qui pourrait être améliorer.
 
-1. je n'aime pas le fais que la seule influence humaine sur l'image montrer soit la vitesse de défilement j'aurais aimer que sa soit produit en tout temps.
-2. j'aurais aimer que l'oeuvre est plus de chose qui capte l'attention pour faire en sorte que le personne veulent rester plus longtemps a regarger l'oeuvre.
-3. J'airait bien aimer qu'il y ais bien plus dondes qui soit percue ( de préference une que l'ont pourrais controler consiament pour donner une plus grade impression de controle.
+1. je n'aime pas le fais qu'elle marche pas constament.
+2. j'aurais aimer plus de paramètre a jouer avec (par exemple: moteur pour modifierr la auteur de certaine partie de la maquette qui sert a faire de l'ombre.
+3. Je Pense qu'il serait intéressant de créer un moment de le rendre possible a utiliser a plusieur en même temps (en collaboration) 
 
 ## Référence
 
-- Juste les photos que j'ai prise et les informations qui étais présente sur le lieux d'exposition.
+- Les photos que j'ai prise, les informations qui étais présente sur le lieux d'exposition et des recherches pour savoir quand la zonne explore a été créer.
